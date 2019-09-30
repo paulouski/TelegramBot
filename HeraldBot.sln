@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeraldBot", "HeraldBot\HeraldBot.csproj", "{7385601A-82DB-4275-8FD8-EB0492A030F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7385601A-82DB-4275-8FD8-EB0492A030F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7385601A-82DB-4275-8FD8-EB0492A030F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7385601A-82DB-4275-8FD8-EB0492A030F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7385601A-82DB-4275-8FD8-EB0492A030F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D03278C5-F446-425C-87DB-923EFD2BFD90}
+	EndGlobalSection
+EndGlobal
